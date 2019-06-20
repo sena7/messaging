@@ -1,4 +1,4 @@
-#Messaging application
+# Messaging application
 Author : Sena Bak
 
 ## prerequisites
